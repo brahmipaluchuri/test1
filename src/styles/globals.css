@@ -29,3 +29,7 @@ body{
     color:#f44336;
 }
 
+.active-menu {
+    color: red;
+    text-shadow: 2px 2px 2px white;
+}
